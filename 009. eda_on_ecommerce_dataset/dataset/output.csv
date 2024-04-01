@@ -1,0 +1,6 @@
+year,make,model,trim,body,transmission,state,condition,color,interior,saledate,seller,sellingprice,mmr,odometer
+2015,Kia,Sorento,LX,SUV,automatic,ca,5.0,white,black,2014-12-16,kia motors america  inc,21500.0,20500.0,16639.0
+2015,Kia,Sorento,LX,SUV,automatic,ca,5.0,white,beige,2014-12-16,kia motors america  inc,21500.0,20800.0,9393.0
+2014,BMW,3 Series,328i SULEV,Sedan,automatic,ca,45.0,gray,black,2015-01-14,financial services remarketing (lease),30000.0,31900.0,1331.0
+2015,Volvo,S60,T5,Sedan,automatic,ca,41.0,white,black,2015-01-28,volvo na rep/world omni,27750.0,27500.0,14282.0
+2014,BMW,6 Series Gran Coupe,650i,Sedan,automatic,ca,43.0,gray,black,2014-12-18,financial services remarketing (lease),67000.0,66000.0,2641.0
